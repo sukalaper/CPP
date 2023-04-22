@@ -76,6 +76,6 @@ Semua *script* yang ada pada repositori ini, dapat diakses dengan cepat lewat li
 Bantuan kalian diperlukan! Untuk Bellshade dapat lebih jauh lagi membantu anak - anak Indonesia belajar *programming*, kita butuh tenaga kalian.
 > "Dengan Bellshade, aku jadi bisa *ngoding*! Terima kasih Bellshade!!"
 
-Kami sangat senang bila kalian ingin melakukan kontribusi pada repositori **CPP** ini. Tapi, sebelum itu, silahkan baca terlebih dahulu [peraturan dan pedomannya](CONTRIBUTING.md) yang telah kami siapkan. Terima kasih! 
+Kami sangat senang bila kalian ingin melakukan kontribusi pada repositori **CPP** ini. Tapi, sebelum itu, silahkan baca terlebih dahulu [peraturan dan pedomannya](contributing.md) yang telah kami siapkan. Terima kasih! 
 
 Untuk informasi lebih lanjut, mari gabung dalam komunitas [Discord Channel WPU](http://discord.gg/S4rrXQU) dan [Discord Channel Kelas Terbuka](https://discord.gg/QnRSMk2C)
